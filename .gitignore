@@ -1,0 +1,6 @@
+.libs/
+
+mod_blocklist.la
+mod_blocklist.lo
+mod_blocklist.o
+mod_blocklist.slo
